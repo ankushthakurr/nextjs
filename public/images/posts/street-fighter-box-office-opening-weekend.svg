@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Violet and magenta graphic with the headline Street Fighter Box Office and a pulse line, representing weekend movie box office news">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1f0a1a"/><stop offset="1" stop-color="#9d174d"/></linearGradient>
+<radialGradient id="r" cx="0.85" cy="0.3" r="0.6"><stop offset="0" stop-color="#f472b6" stop-opacity="0.45"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<rect width="1200" height="630" fill="url(#r)"/>
+<circle cx="929" cy="59" r="223" fill="none" stroke="#f472b6" stroke-opacity="0.20" stroke-width="1.2"/><circle cx="745" cy="483" r="44" fill="none" stroke="#f472b6" stroke-opacity="0.15" stroke-width="1.3"/><circle cx="1167" cy="483" r="133" fill="none" stroke="#f472b6" stroke-opacity="0.18" stroke-width="4.0"/><circle cx="806" cy="123" r="230" fill="none" stroke="#f472b6" stroke-opacity="0.18" stroke-width="1.8"/><circle cx="777" cy="323" r="66" fill="none" stroke="#f472b6" stroke-opacity="0.33" stroke-width="2.5"/><circle cx="1210" cy="114" r="170" fill="none" stroke="#f472b6" stroke-opacity="0.12" stroke-width="1.1"/><circle cx="777" cy="449" r="157" fill="none" stroke="#f472b6" stroke-opacity="0.14" stroke-width="2.0"/>
+<polyline points="640,455 664,444 688,459 712,350 736,530 760,445 784,440 808,447 832,444 856,350 880,530 904,453 928,455 952,448 976,451 1000,350 1024,530 1048,445 1072,466 1096,461 1120,462 1144,350 1168,530 1192,465" fill="none" stroke="#f472b6" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" opacity="0.85"/>
+<text x="72" y="110" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="5" fill="#f472b6">BOX OFFICE · WEEKEND</text>
+<text x="72" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Street Fighter Box Office:</text>
+<text x="72" y="273.6" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">$31M Opening Tops the</text>
+<text x="72" y="347.2" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Weekend</text>
+<text x="72" y="570" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Trend<tspan fill="#f472b6">Pulse</tspan> Daily</text>
+</svg>

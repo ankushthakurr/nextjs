@@ -77,7 +77,10 @@ git push origin main
 Then deploy and confirm it is live:
 
 1. Vercel tools, no `teamId` (calls with the team id are rejected): `list_deployments` for project `trendpulse-daily`. If a new production deployment for your commit appears, wait for READY.
-2. If none appears (Git auto-deploy is not connected yet), deploy the files directly:
+2. If none appears, deploy from Git with `create_deployment` and
+   `requestBody: { name: "trendpulse-daily", project: "trendpulse-daily", target: "production", gitSource: { type: "github", org: "ankushthakurr", repo: "nextjs", ref: "main", sha: "<commit sha>" }, projectSettings: { framework: "nextjs" } }`
+   and `skipAutoDetectionConfirmation: "1"`. This works because the repo is public.
+   Only if that fails, deploy the files directly:
    - `node scripts/deploy-bundle.mjs > /tmp/files.json` and pass that array as `files` to `create_deployment` with
      `requestBody: { name: "trendpulse-daily", project: "trendpulse-daily", target: "production", files, projectSettings: { framework: "nextjs" } }`
      and `skipAutoDetectionConfirmation: "1"`.

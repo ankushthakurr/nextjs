@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Dark graphic with the headline Trump Mortgage Executive Order and a pulse line, representing news about mortgage insurance and refinancing costs">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c1a12"/><stop offset="1" stop-color="#14532d"/></linearGradient>
+<radialGradient id="r" cx="0.85" cy="0.3" r="0.6"><stop offset="0" stop-color="#4ade80" stop-opacity="0.45"/><stop offset="1" stop-color="#4ade80" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<rect width="1200" height="630" fill="url(#r)"/>
+<circle cx="971" cy="472" r="254" fill="none" stroke="#4ade80" stroke-opacity="0.15" stroke-width="3.6"/><circle cx="1188" cy="100" r="240" fill="none" stroke="#4ade80" stroke-opacity="0.17" stroke-width="3.3"/><circle cx="1032" cy="187" r="123" fill="none" stroke="#4ade80" stroke-opacity="0.19" stroke-width="1.8"/><circle cx="881" cy="213" r="138" fill="none" stroke="#4ade80" stroke-opacity="0.23" stroke-width="2.2"/><circle cx="767" cy="474" r="142" fill="none" stroke="#4ade80" stroke-opacity="0.21" stroke-width="2.4"/><circle cx="1025" cy="105" r="204" fill="none" stroke="#4ade80" stroke-opacity="0.34" stroke-width="2.3"/><circle cx="702" cy="174" r="192" fill="none" stroke="#4ade80" stroke-opacity="0.29" stroke-width="2.2"/>
+<polyline points="640,450 664,470 688,457 712,350 736,530 760,441 784,468 808,450 832,467 856,350 880,530 904,468 928,445 952,445 976,441 1000,350 1024,530 1048,468 1072,451 1096,457 1120,461 1144,350 1168,530 1192,467" fill="none" stroke="#4ade80" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" opacity="0.85"/>
+<text x="72" y="110" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="5" fill="#4ade80">HOUSING · MORTGAGES</text>
+<text x="72" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Trump's Mortgage Order:</text>
+<text x="72" y="273.6" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Who Saves on PMI and</text>
+<text x="72" y="347.2" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Refinancing?</text>
+<text x="72" y="570" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Trend<tspan fill="#4ade80">Pulse</tspan> Daily</text>
+</svg>

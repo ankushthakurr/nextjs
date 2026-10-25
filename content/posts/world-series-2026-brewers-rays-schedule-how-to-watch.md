@@ -1,5 +1,5 @@
 ---
-title: "World Series 2026: Brewers vs. Rays Schedule, How to Watch, and What Happened in Games 1 and 2"
+title: "World Series 2026: Brewers Lead Rays 2-0 After Game 2 Comeback, Plus Schedule and How to Watch"
 metaTitle: "World Series 2026: Brewers vs Rays Schedule and How to Watch"
 description: "World Series 2026 guide: Brewers vs. Rays full schedule, TV channel and streaming, Game 1 and Game 2 recaps, and why one of these teams wins its first title."
 slug: world-series-2026-brewers-rays-schedule-how-to-watch
@@ -19,7 +19,7 @@ tags: [mlb, world-series, brewers, rays, baseball, sports]
 imageAlt: "Orange and rust graphic with the headline World Series 2026 Brewers vs Rays and a pulse line, representing a series schedule and recap"
 imageCredit: "Graphic: TrendPulse Daily (original artwork)"
 coverLabel: "Sports · MLB"
-coverTitle: "World Series 2026: Brewers vs. Rays, a First-Time Champion Guaranteed"
+coverTitle: "World Series 2026: Brewers Rally to Lead Rays 2-0"
 faq:
   - q: "Who is playing in the World Series 2026?"
     a: "The Milwaukee Brewers and the Tampa Bay Rays. Neither franchise has won a World Series, so 2026 will crown a first-time champion. AP notes it is the first Fall Classic between two teams chasing their first title since 1980."
@@ -40,11 +40,11 @@ sources:
     url: "https://www.sportsnet.ca/mlb/article/brewers-beat-rays-behind-strong-pitching-in-game-1-of-world-series/"
   - title: "Yahoo Sports: World Series Game 1 between Brewers, Rays makes MLB history not seen since 2000"
     url: "https://sports.yahoo.com/articles/world-series-game-1-between-145535489.html"
-  - title: "Yahoo Sports (Milwaukee Journal Sentinel): Brewers vs Rays live updates in World Series Game 2"
+  - title: "Yahoo Sports (Milwaukee Journal Sentinel): Brewers rally all the way back to take 2-0 lead in World Series"
     url: "https://sports.yahoo.com/articles/brewers-vs-rays-live-updates-210001686.html"
 ---
 
-> **The short version:** World Series 2026 is Milwaukee Brewers vs. Tampa Bay Rays, and for the first time since 1980 both teams are chasing their first title. The Brewers took Game 1 3-2 behind a record 103.5 mph first pitch from Jacob Misiorowski, and the Rays jumped ahead early in Game 2. Every game is on FOX at 8 p.m. ET, and the series shifts to Tampa Bay on Monday.
+> **The short version:** World Series 2026 is Milwaukee Brewers vs. Tampa Bay Rays, and for the first time since 1980 both teams are chasing their first title. The Brewers took Game 1 3-2 behind a record 103.5 mph first pitch from Jacob Misiorowski, then rallied from 4-0 down to win Game 2 5-4 and lead the series 2-0. Every game is on FOX at 8 p.m. ET, and the series shifts to Tampa Bay on Monday.
 
 World Series 2026 is the matchup few predicted in spring: two small-market franchises that have never won a championship. That guarantees a first-time champion and a wave of searches for the schedule, the TV channel, and what is happening each night. Here is everything in one place, from the record-setting opener to the dates still to come.
 
@@ -55,7 +55,7 @@ According to [NBC Sports](https://www.nbcsports.com/mlb/news/how-to-watch-rays-v
 | Game | Date | Location | Result / status |
 | --- | --- | --- | --- |
 | Game 1 | Fri., Oct. 23 | Milwaukee | **Brewers 3, Rays 2** |
-| Game 2 | Sat., Oct. 24 | Milwaukee | In progress (Rays led 4-3 after 4) |
+| Game 2 | Sat., Oct. 24 | Milwaukee | **Brewers 5, Rays 4** |
 | Game 3 | Mon., Oct. 26 | Tampa Bay | 8 p.m. ET |
 | Game 4 | Tue., Oct. 27 | Tampa Bay | 8 p.m. ET |
 | Game 5* | Wed., Oct. 28 | Tampa Bay | 8 p.m. ET |
@@ -94,16 +94,22 @@ The ending was wild. The Brewers thought they had won on a double play and poure
 
 Tampa Bay went 0 for 6 with runners in scoring position, AP notes. And per Yahoo Sports, citing USA Today's Bob Nightengale, it was "the first time since the 2000 World Series that no one homered in Game 1 of a World Series, and just the second time since 1987."
 
-## Game 2: Rays jump out early in Milwaukee
+## Game 2 recap: Brewers rally from 4-0 down to win 5-4
 
-Game 2 was still in progress at the time of writing. Here is how it unfolded through four innings, according to the Milwaukee Journal Sentinel's [live updates](https://sports.yahoo.com/articles/brewers-vs-rays-live-updates-210001686.html) on Yahoo Sports:
+Milwaukee fell behind 4-0 before it even batted on October 24 and still won 5-4 to take a 2-0 series lead, according to the Milwaukee Journal Sentinel's [game coverage](https://sports.yahoo.com/articles/brewers-vs-rays-live-updates-210001686.html) on Yahoo Sports. Here is how it unfolded:
 
-- **Starters:** Logan Henderson for Milwaukee, Drew Rasmussen for Tampa Bay, as NBC Sports had previewed.
-- **Rays' fast start:** Yandy Díaz reached on an error by shortstop Cooper Pratt, then Chandler Simpson and Junior Caminero drove in runs and Liam Hicks hit a two-run homer. Tampa Bay led 4-0 in the first.
-- **Brewers respond:** RBI singles from William Contreras and Garrett Mitchell cut it to 4-2.
-- **Bullpen game:** JoJo Romero relieved Henderson and threw a quiet fourth. In the bottom of the fourth, a Rays error on a David Hamilton grounder scored Pratt to make it 4-3, and Rasmussen left with the bases loaded. Cam Booser got Christian Yelich to ground out, and Dustin May entered for Milwaukee in the fifth.
+- **Rays' fast start:** Against Brewers starter Logan Henderson, Yandy Díaz reached on an error by shortstop Cooper Pratt, Chandler Simpson and Junior Caminero drove in runs, and Liam Hicks hit a two-run homer. Tampa Bay led 4-0 in the first.
+- **Brewers chip away:** RBI singles from William Contreras and Garrett Mitchell made it 4-2. In the fourth, a Rays error on a David Hamilton grounder scored Pratt to cut it to 4-3, and Rays starter Drew Rasmussen left with the bases loaded.
+- **A key throw:** In the sixth, Jackson Chourio threw out Hicks at the plate, with Contreras applying the tag.
+- **Frelick ties it:** In the bottom of the sixth, Sal Frelick homered to center off Ian Seymour to make it 4-4.
+- **Pratt's go-ahead hit:** In the seventh, Brice Turang doubled and Pratt, who made the first-inning error, blooped a go-ahead single down the right-field line.
+- **Tense ninth:** Aaron Ashby gave up a leadoff double to Jonny DeLuca, then got two outs with the tying run reaching third. The game ended when Díaz was ruled out on a check swing.
 
-We will update this section with the final score.
+Abner Uribe got the win, per the Journal Sentinel. Milwaukee's bullpen again carried the late innings, as it did in Game 1.
+
+### What 2-0 means
+
+The Brewers now need two wins in their next five games. The series moves to Tampa Bay for Games 3, 4 and 5, so the Rays have a chance to even it at home.
 
 ## Why this World Series is historic
 
@@ -129,7 +135,8 @@ History favors the opener's winner. According to AP, the Game 1 winner has gone 
 - **Trevor Megill (MIL):** The closer who survived the Game 1 ninth.
 - **William Contreras (MIL):** Hitting and controlling the running game from behind the plate.
 - **Jackson Chourio (MIL):** Two hits in Game 1 and one of the Brewers' young stars.
-- **Junior Caminero and Chandler Simpson (TB):** Both drove in early runs in Game 2, according to the Journal Sentinel's live updates.
+- **Sal Frelick and Cooper Pratt (MIL):** Frelick's game-tying homer and Pratt's go-ahead single won Game 2.
+- **Junior Caminero and Chandler Simpson (TB):** Both drove in first-inning runs in Game 2.
 - **Drew Rasmussen (TB):** The Rays' Game 2 starter.
 
 For more of our sports coverage, see the [sports section](/category/sports) and our earlier look at [AJ Dybantsa's ankle injury](/blog/aj-dybantsa-injury-ankle-sprain-wizards-opener).
@@ -144,4 +151,4 @@ For more of our sports coverage, see the [sports section](/category/sports) and 
 
 We will keep this guide updated as the series moves on. Read more about [how we report](/about).
 
-*Reporting current as of October 25, 2026, 02:00 UTC, with Game 2 in progress.*
+*Reporting current as of October 25, 2026, 04:05 UTC, after Game 2.*

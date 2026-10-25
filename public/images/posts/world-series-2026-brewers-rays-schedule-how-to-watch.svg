@@ -8,8 +8,7 @@
 <circle cx="1152" cy="578" r="158" fill="none" stroke="#fb923c" stroke-opacity="0.16" stroke-width="1.0"/><circle cx="836" cy="484" r="141" fill="none" stroke="#fb923c" stroke-opacity="0.36" stroke-width="2.5"/><circle cx="1129" cy="572" r="98" fill="none" stroke="#fb923c" stroke-opacity="0.36" stroke-width="2.6"/><circle cx="1018" cy="2" r="219" fill="none" stroke="#fb923c" stroke-opacity="0.12" stroke-width="3.7"/><circle cx="1029" cy="350" r="207" fill="none" stroke="#fb923c" stroke-opacity="0.30" stroke-width="1.9"/><circle cx="725" cy="422" r="142" fill="none" stroke="#fb923c" stroke-opacity="0.22" stroke-width="1.7"/><circle cx="1080" cy="424" r="44" fill="none" stroke="#fb923c" stroke-opacity="0.13" stroke-width="2.6"/>
 <polyline points="640,450 664,469 688,445 712,350 736,530 760,469 784,457 808,456 832,449 856,350 880,530 904,467 928,461 952,460 976,452 1000,350 1024,530 1048,457 1072,454 1096,466 1120,446 1144,350 1168,530 1192,450" fill="none" stroke="#fb923c" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" opacity="0.85"/>
 <text x="72" y="110" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="5" fill="#fb923c">SPORTS · MLB</text>
-<text x="72" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" fill="#ffffff">World Series 2026: Brewers vs.</text>
-<text x="72" y="262.1" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" fill="#ffffff">Rays, a First-Time Champion</text>
-<text x="72" y="324.2" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" fill="#ffffff">Guaranteed</text>
+<text x="72" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">World Series 2026: Brewers</text>
+<text x="72" y="273.6" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Rally to Lead Rays 2-0</text>
 <text x="72" y="570" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Trend<tspan fill="#fb923c">Pulse</tspan> Daily</text>
 </svg>

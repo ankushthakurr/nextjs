@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Navy and sky-blue graphic with the headline Starlink Mobile vs Carriers and a pulse line, representing the FCC satellite spectrum dispute">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#1e3a8a"/></linearGradient>
+<radialGradient id="r" cx="0.85" cy="0.3" r="0.6"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.45"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<rect width="1200" height="630" fill="url(#r)"/>
+<circle cx="802" cy="201" r="115" fill="none" stroke="#38bdf8" stroke-opacity="0.36" stroke-width="3.0"/><circle cx="1076" cy="550" r="176" fill="none" stroke="#38bdf8" stroke-opacity="0.30" stroke-width="2.2"/><circle cx="978" cy="347" r="136" fill="none" stroke="#38bdf8" stroke-opacity="0.21" stroke-width="3.6"/><circle cx="943" cy="118" r="139" fill="none" stroke="#38bdf8" stroke-opacity="0.30" stroke-width="4.0"/><circle cx="975" cy="630" r="190" fill="none" stroke="#38bdf8" stroke-opacity="0.18" stroke-width="1.6"/><circle cx="1159" cy="540" r="166" fill="none" stroke="#38bdf8" stroke-opacity="0.27" stroke-width="3.7"/><circle cx="1101" cy="272" r="205" fill="none" stroke="#38bdf8" stroke-opacity="0.35" stroke-width="2.7"/>
+<polyline points="640,440 664,444 688,440 712,350 736,530 760,440 784,440 808,459 832,466 856,350 880,530 904,450 928,448 952,464 976,462 1000,350 1024,530 1048,445 1072,445 1096,469 1120,450 1144,350 1168,530 1192,455" fill="none" stroke="#38bdf8" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" opacity="0.85"/>
+<text x="72" y="110" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="5" fill="#38bdf8">TECH · WIRELESS</text>
+<text x="72" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" fill="#ffffff">Starlink Mobile vs. the Big</text>
+<text x="72" y="262.1" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" fill="#ffffff">Three: The Fight Over Your</text>
+<text x="72" y="324.2" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" fill="#ffffff">Phone Signal</text>
+<text x="72" y="570" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Trend<tspan fill="#38bdf8">Pulse</tspan> Daily</text>
+</svg>

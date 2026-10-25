@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Teal graphic with the headline ACA Open Enrollment 2027 and a pulse line, representing a guide to choosing a marketplace health plan">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1f1e"/><stop offset="1" stop-color="#115e59"/></linearGradient>
+<radialGradient id="r" cx="0.85" cy="0.3" r="0.6"><stop offset="0" stop-color="#2dd4bf" stop-opacity="0.45"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<rect width="1200" height="630" fill="url(#r)"/>
+<circle cx="965" cy="220" r="243" fill="none" stroke="#2dd4bf" stroke-opacity="0.24" stroke-width="1.8"/><circle cx="849" cy="2" r="202" fill="none" stroke="#2dd4bf" stroke-opacity="0.20" stroke-width="1.1"/><circle cx="874" cy="435" r="242" fill="none" stroke="#2dd4bf" stroke-opacity="0.31" stroke-width="1.7"/><circle cx="956" cy="491" r="149" fill="none" stroke="#2dd4bf" stroke-opacity="0.23" stroke-width="3.0"/><circle cx="715" cy="439" r="82" fill="none" stroke="#2dd4bf" stroke-opacity="0.12" stroke-width="1.0"/><circle cx="775" cy="547" r="50" fill="none" stroke="#2dd4bf" stroke-opacity="0.21" stroke-width="3.9"/><circle cx="908" cy="397" r="175" fill="none" stroke="#2dd4bf" stroke-opacity="0.33" stroke-width="2.4"/>
+<polyline points="640,441 664,470 688,443 712,350 736,530 760,453 784,445 808,451 832,456 856,350 880,530 904,447 928,466 952,463 976,462 1000,350 1024,530 1048,449 1072,442 1096,455 1120,451 1144,350 1168,530 1192,466" fill="none" stroke="#2dd4bf" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" opacity="0.85"/>
+<text x="72" y="110" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="5" fill="#2dd4bf">HEALTH · OPEN ENROLLMENT</text>
+<text x="72" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">ACA Open Enrollment 2027:</text>
+<text x="72" y="273.6" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Higher Premiums and New</text>
+<text x="72" y="347.2" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Rules</text>
+<text x="72" y="570" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Trend<tspan fill="#2dd4bf">Pulse</tspan> Daily</text>
+</svg>

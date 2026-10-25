@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Amber graphic with the headline Daylight Saving Time Ends and a pulse line, representing the November 1 fall back time change">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1f1608"/><stop offset="1" stop-color="#a16207"/></linearGradient>
+<radialGradient id="r" cx="0.85" cy="0.3" r="0.6"><stop offset="0" stop-color="#facc15" stop-opacity="0.45"/><stop offset="1" stop-color="#facc15" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<rect width="1200" height="630" fill="url(#r)"/>
+<circle cx="1049" cy="397" r="254" fill="none" stroke="#facc15" stroke-opacity="0.17" stroke-width="1.2"/><circle cx="997" cy="308" r="209" fill="none" stroke="#facc15" stroke-opacity="0.19" stroke-width="3.9"/><circle cx="1017" cy="418" r="164" fill="none" stroke="#facc15" stroke-opacity="0.29" stroke-width="1.9"/><circle cx="1047" cy="3" r="193" fill="none" stroke="#facc15" stroke-opacity="0.14" stroke-width="3.4"/><circle cx="1005" cy="518" r="242" fill="none" stroke="#facc15" stroke-opacity="0.22" stroke-width="2.5"/><circle cx="829" cy="100" r="185" fill="none" stroke="#facc15" stroke-opacity="0.37" stroke-width="2.4"/><circle cx="864" cy="305" r="58" fill="none" stroke="#facc15" stroke-opacity="0.23" stroke-width="1.8"/>
+<polyline points="640,440 664,453 688,450 712,350 736,530 760,453 784,462 808,445 832,450 856,350 880,530 904,464 928,465 952,448 976,449 1000,350 1024,530 1048,466 1072,453 1096,455 1120,451 1144,350 1168,530 1192,458" fill="none" stroke="#facc15" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" opacity="0.85"/>
+<text x="72" y="110" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="5" fill="#facc15">LIFESTYLE · TIME CHANGE</text>
+<text x="72" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Clocks Fall Back Nov. 1:</text>
+<text x="72" y="273.6" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">The Earliest Time Change</text>
+<text x="72" y="347.2" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Possible</text>
+<text x="72" y="570" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Trend<tspan fill="#facc15">Pulse</tspan> Daily</text>
+</svg>

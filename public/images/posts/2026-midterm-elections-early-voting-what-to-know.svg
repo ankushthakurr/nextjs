@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Blue graphic with the headline 2026 Midterm Elections and a pulse line, representing a voter guide to the November 3 election">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f1720"/><stop offset="1" stop-color="#1e40af"/></linearGradient>
+<radialGradient id="r" cx="0.85" cy="0.3" r="0.6"><stop offset="0" stop-color="#93c5fd" stop-opacity="0.45"/><stop offset="1" stop-color="#93c5fd" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<rect width="1200" height="630" fill="url(#r)"/>
+<circle cx="796" cy="313" r="182" fill="none" stroke="#93c5fd" stroke-opacity="0.16" stroke-width="2.1"/><circle cx="815" cy="145" r="218" fill="none" stroke="#93c5fd" stroke-opacity="0.22" stroke-width="3.9"/><circle cx="718" cy="383" r="106" fill="none" stroke="#93c5fd" stroke-opacity="0.16" stroke-width="3.9"/><circle cx="834" cy="475" r="207" fill="none" stroke="#93c5fd" stroke-opacity="0.37" stroke-width="2.5"/><circle cx="1189" cy="498" r="187" fill="none" stroke="#93c5fd" stroke-opacity="0.19" stroke-width="2.2"/><circle cx="871" cy="499" r="149" fill="none" stroke="#93c5fd" stroke-opacity="0.22" stroke-width="1.0"/><circle cx="876" cy="563" r="210" fill="none" stroke="#93c5fd" stroke-opacity="0.23" stroke-width="2.1"/>
+<polyline points="640,440 664,449 688,441 712,350 736,530 760,448 784,443 808,456 832,451 856,350 880,530 904,453 928,446 952,449 976,461 1000,350 1024,530 1048,446 1072,449 1096,449 1120,455 1144,350 1168,530 1192,461" fill="none" stroke="#93c5fd" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" opacity="0.85"/>
+<text x="72" y="110" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="5" fill="#93c5fd">ELECTION 2026 · VOTER GUIDE</text>
+<text x="72" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">2026 Midterms: What's at</text>
+<text x="72" y="273.6" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Stake and How to Vote by</text>
+<text x="72" y="347.2" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Nov. 3</text>
+<text x="72" y="570" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Trend<tspan fill="#93c5fd">Pulse</tspan> Daily</text>
+</svg>

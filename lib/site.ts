@@ -1,8 +1,8 @@
 export const site = {
   name: 'TrendPulse Daily',
-  tagline: 'One deep, well-researched story on what the world is searching for, every day.',
+  tagline: 'Deep, well-researched stories on what America is searching for, every day.',
   description:
-    'TrendPulse Daily publishes one in-depth, fact-checked article every day on the topic people are searching for most, with sources, context and what it means for you.',
+    'TrendPulse Daily publishes in-depth, fact-checked articles every day on the topics people are searching for most, across news, sports, tech, health and entertainment, with sources, context and what it means for you.',
   url: (process.env.NEXT_PUBLIC_SITE_URL || 'https://trendpulse-daily-blue.vercel.app').replace(/\/$/, ''),
   author: 'TrendPulse Editorial',
   locale: 'en_US',

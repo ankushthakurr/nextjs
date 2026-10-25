@@ -13,8 +13,9 @@ export default function About() {
       <div className="page prose">
         <h1>About {site.name}</h1>
         <p>
-          Every day we look at what people are searching for most, pick the story with the most lasting interest, and
-          publish one in-depth article that explains it: what happened, why it matters, and what to watch next.
+          Every day we look at what people across the U.S. are searching for most, pick the stories with the most lasting
+          interest across news, sports, tech, health and entertainment, and publish in-depth articles that explain them:
+          what happened, why it matters, and what to watch next.
         </p>
         <h2>How we work</h2>
         <ul>

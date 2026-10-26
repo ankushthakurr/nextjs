@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Bold red and gold graphic with the headline Canelo vs Mbilli and a pulse line, representing a world title boxing preview">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c0f08"/><stop offset="1" stop-color="#9a3412"/></linearGradient>
+<radialGradient id="r" cx="0.85" cy="0.3" r="0.6"><stop offset="0" stop-color="#fb923c" stop-opacity="0.45"/><stop offset="1" stop-color="#fb923c" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<rect width="1200" height="630" fill="url(#r)"/>
+<circle cx="988" cy="37" r="247" fill="none" stroke="#fb923c" stroke-opacity="0.32" stroke-width="3.9"/><circle cx="1072" cy="441" r="117" fill="none" stroke="#fb923c" stroke-opacity="0.36" stroke-width="3.8"/><circle cx="946" cy="120" r="223" fill="none" stroke="#fb923c" stroke-opacity="0.16" stroke-width="3.4"/><circle cx="744" cy="606" r="194" fill="none" stroke="#fb923c" stroke-opacity="0.37" stroke-width="2.5"/><circle cx="1218" cy="389" r="231" fill="none" stroke="#fb923c" stroke-opacity="0.34" stroke-width="3.4"/><circle cx="745" cy="20" r="150" fill="none" stroke="#fb923c" stroke-opacity="0.13" stroke-width="2.3"/><circle cx="910" cy="139" r="143" fill="none" stroke="#fb923c" stroke-opacity="0.17" stroke-width="1.6"/>
+<polyline points="640,461 664,452 688,441 712,350 736,530 760,461 784,453 808,455 832,451 856,350 880,530 904,440 928,445 952,449 976,444 1000,350 1024,530 1048,444 1072,443 1096,455 1120,464 1144,350 1168,530 1192,452" fill="none" stroke="#fb923c" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" opacity="0.85"/>
+<text x="72" y="110" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="5" fill="#fb923c">SPORTS · BOXING</text>
+<text x="72" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Canelo vs Mbilli:</text>
+<text x="72" y="273.6" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Halloween Title Fight in</text>
+<text x="72" y="347.2" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Riyadh</text>
+<text x="72" y="570" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Trend<tspan fill="#fb923c">Pulse</tspan> Daily</text>
+</svg>

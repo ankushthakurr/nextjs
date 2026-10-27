@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Deep green and gold Art Nouveau style graphic with the headline The Gilded Age Season 4 and a pulse line, representing a TV premiere guide">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1f0a1a"/><stop offset="1" stop-color="#9d174d"/></linearGradient>
+<radialGradient id="r" cx="0.85" cy="0.3" r="0.6"><stop offset="0" stop-color="#f472b6" stop-opacity="0.45"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<rect width="1200" height="630" fill="url(#r)"/>
+<circle cx="1066" cy="526" r="171" fill="none" stroke="#f472b6" stroke-opacity="0.16" stroke-width="3.2"/><circle cx="739" cy="61" r="120" fill="none" stroke="#f472b6" stroke-opacity="0.33" stroke-width="2.6"/><circle cx="1129" cy="226" r="130" fill="none" stroke="#f472b6" stroke-opacity="0.28" stroke-width="3.9"/><circle cx="856" cy="304" r="125" fill="none" stroke="#f472b6" stroke-opacity="0.16" stroke-width="2.6"/><circle cx="1189" cy="131" r="248" fill="none" stroke="#f472b6" stroke-opacity="0.37" stroke-width="2.9"/><circle cx="844" cy="107" r="77" fill="none" stroke="#f472b6" stroke-opacity="0.16" stroke-width="1.5"/><circle cx="1068" cy="7" r="114" fill="none" stroke="#f472b6" stroke-opacity="0.35" stroke-width="1.1"/>
+<polyline points="640,441 664,443 688,465 712,350 736,530 760,464 784,458 808,468 832,444 856,350 880,530 904,455 928,450 952,455 976,460 1000,350 1024,530 1048,455 1072,447 1096,446 1120,452 1144,350 1168,530 1192,465" fill="none" stroke="#f472b6" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" opacity="0.85"/>
+<text x="72" y="110" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="5" fill="#f472b6">ENTERTAINMENT · TV</text>
+<text x="72" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">The Gilded Age Season 4:</text>
+<text x="72" y="273.6" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Premiere Date, Schedule</text>
+<text x="72" y="347.2" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">and Cast</text>
+<text x="72" y="570" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Trend<tspan fill="#f472b6">Pulse</tspan> Daily</text>
+</svg>

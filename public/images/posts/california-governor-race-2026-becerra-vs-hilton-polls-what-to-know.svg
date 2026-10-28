@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Dark graphic with the headline California Governor Race and a pulse line, representing news about the Becerra vs. Hilton election">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f1720"/><stop offset="1" stop-color="#1e40af"/></linearGradient>
+<radialGradient id="r" cx="0.85" cy="0.3" r="0.6"><stop offset="0" stop-color="#93c5fd" stop-opacity="0.45"/><stop offset="1" stop-color="#93c5fd" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<rect width="1200" height="630" fill="url(#r)"/>
+<circle cx="1034" cy="585" r="236" fill="none" stroke="#93c5fd" stroke-opacity="0.28" stroke-width="2.8"/><circle cx="1140" cy="227" r="193" fill="none" stroke="#93c5fd" stroke-opacity="0.33" stroke-width="1.8"/><circle cx="1097" cy="153" r="87" fill="none" stroke="#93c5fd" stroke-opacity="0.20" stroke-width="3.4"/><circle cx="765" cy="566" r="200" fill="none" stroke="#93c5fd" stroke-opacity="0.22" stroke-width="2.9"/><circle cx="845" cy="288" r="160" fill="none" stroke="#93c5fd" stroke-opacity="0.29" stroke-width="3.8"/><circle cx="1163" cy="387" r="129" fill="none" stroke="#93c5fd" stroke-opacity="0.27" stroke-width="2.0"/><circle cx="722" cy="199" r="97" fill="none" stroke="#93c5fd" stroke-opacity="0.24" stroke-width="1.4"/>
+<polyline points="640,461 664,448 688,458 712,350 736,530 760,454 784,460 808,457 832,469 856,350 880,530 904,448 928,468 952,465 976,445 1000,350 1024,530 1048,443 1072,456 1096,444 1120,466 1144,350 1168,530 1192,442" fill="none" stroke="#93c5fd" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" opacity="0.85"/>
+<text x="72" y="110" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="5" fill="#93c5fd">WORLD · US POLITICS</text>
+<text x="72" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" fill="#ffffff">California Governor Race:</text>
+<text x="72" y="262.1" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" fill="#ffffff">Becerra vs. Hilton in the</text>
+<text x="72" y="324.2" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" fill="#ffffff">Final Week</text>
+<text x="72" y="570" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Trend<tspan fill="#93c5fd">Pulse</tspan> Daily</text>
+</svg>

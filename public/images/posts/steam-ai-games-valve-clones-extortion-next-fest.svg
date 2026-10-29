@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Dark blue and violet graphic with the headline Steam AI Games and a pulse line, representing Valve's stance on AI-made games and clones">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#1e3a8a"/></linearGradient>
+<radialGradient id="r" cx="0.85" cy="0.3" r="0.6"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.45"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<rect width="1200" height="630" fill="url(#r)"/>
+<circle cx="785" cy="304" r="182" fill="none" stroke="#38bdf8" stroke-opacity="0.18" stroke-width="2.6"/><circle cx="1100" cy="427" r="72" fill="none" stroke="#38bdf8" stroke-opacity="0.37" stroke-width="2.5"/><circle cx="1212" cy="340" r="118" fill="none" stroke="#38bdf8" stroke-opacity="0.37" stroke-width="3.2"/><circle cx="740" cy="37" r="171" fill="none" stroke="#38bdf8" stroke-opacity="0.31" stroke-width="1.5"/><circle cx="981" cy="250" r="167" fill="none" stroke="#38bdf8" stroke-opacity="0.30" stroke-width="2.0"/><circle cx="1036" cy="117" r="162" fill="none" stroke="#38bdf8" stroke-opacity="0.16" stroke-width="3.3"/><circle cx="1118" cy="151" r="125" fill="none" stroke="#38bdf8" stroke-opacity="0.20" stroke-width="3.2"/>
+<polyline points="640,447 664,454 688,444 712,350 736,530 760,445 784,440 808,448 832,448 856,350 880,530 904,449 928,453 952,458 976,465 1000,350 1024,530 1048,470 1072,451 1096,450 1120,466 1144,350 1168,530 1192,454" fill="none" stroke="#38bdf8" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" opacity="0.85"/>
+<text x="72" y="110" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="5" fill="#38bdf8">TECH · GAMING</text>
+<text x="72" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Steam AI Games: Valve</text>
+<text x="72" y="273.6" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Won't Gatekeep, Devs Fear</text>
+<text x="72" y="347.2" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Clones</text>
+<text x="72" y="570" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Trend<tspan fill="#38bdf8">Pulse</tspan> Daily</text>
+</svg>

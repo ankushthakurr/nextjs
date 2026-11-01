@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Dark blue and violet graphic with the headline Fortnite One Piece Treasure Hunters and a pulse line, representing the new Fortnite mini-season">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#1e3a8a"/></linearGradient>
+<radialGradient id="r" cx="0.85" cy="0.3" r="0.6"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.45"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<rect width="1200" height="630" fill="url(#r)"/>
+<circle cx="855" cy="463" r="59" fill="none" stroke="#38bdf8" stroke-opacity="0.18" stroke-width="3.5"/><circle cx="860" cy="138" r="206" fill="none" stroke="#38bdf8" stroke-opacity="0.12" stroke-width="3.6"/><circle cx="768" cy="288" r="196" fill="none" stroke="#38bdf8" stroke-opacity="0.16" stroke-width="1.8"/><circle cx="1114" cy="552" r="170" fill="none" stroke="#38bdf8" stroke-opacity="0.17" stroke-width="1.7"/><circle cx="747" cy="253" r="228" fill="none" stroke="#38bdf8" stroke-opacity="0.13" stroke-width="3.9"/><circle cx="1105" cy="344" r="109" fill="none" stroke="#38bdf8" stroke-opacity="0.23" stroke-width="3.3"/><circle cx="700" cy="413" r="125" fill="none" stroke="#38bdf8" stroke-opacity="0.18" stroke-width="1.1"/>
+<polyline points="640,447 664,462 688,445 712,350 736,530 760,448 784,467 808,456 832,457 856,350 880,530 904,450 928,457 952,453 976,461 1000,350 1024,530 1048,441 1072,449 1096,466 1120,464 1144,350 1168,530 1192,466" fill="none" stroke="#38bdf8" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" opacity="0.85"/>
+<text x="72" y="110" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="5" fill="#38bdf8">TECH · GAMING</text>
+<text x="72" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Fortnite One Piece: Every</text>
+<text x="72" y="273.6" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#ffffff">Skin Date and the New Map</text>
+<text x="72" y="570" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Trend<tspan fill="#38bdf8">Pulse</tspan> Daily</text>
+</svg>
